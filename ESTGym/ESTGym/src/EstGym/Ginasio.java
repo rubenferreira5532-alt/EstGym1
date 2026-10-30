@@ -1,5 +1,6 @@
 package EstGym;
 
-public class Ginasio {
+public class Ginasio{
+
 
 }
